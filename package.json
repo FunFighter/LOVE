@@ -9,10 +9,10 @@
   "author": "Brandon Leal",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "nodemailer": "^4.6.8",
-    "nodemon": "^1.18.4"
+    "nodemailer": "^4.7.0",
+    "nodemon": "^1.19.0"
   }
 }
